@@ -1,0 +1,32 @@
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.exe.config
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.exe
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.pdb
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.AssemblyReference.cache
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los_Custom___Tunagem.Painel.resources
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los_Custom___Tunagem.Properties.Resources.resources
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.GenerateResource.cache
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.CoreCompileInputs.cache
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.exe
+C:\Users\jnpud\source\repos\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.pdb
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.exe
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.pdb
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.exe.config
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.exe
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.pdb
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csprojAssemblyReference.cache
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los_Custom___Tunagem.Painel.resources
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los_Custom___Tunagem.Properties.Resources.resources
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.GenerateResource.cache
+C:\Users\super\Downloads\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.CoreCompileInputs.cache
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.exe.config
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.exe
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\bin\Debug\Los Custom - Tunagem.pdb
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.AssemblyReference.cache
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.SuggestedBindingRedirects.cache
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los_Custom___Tunagem.Painel.resources
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los_Custom___Tunagem.Properties.Resources.resources
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.GenerateResource.cache
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.csproj.CoreCompileInputs.cache
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.exe
+C:\Users\jnpud\Desktop\tela deitada\Los Custom - Tunagem\Los Custom - Tunagem\obj\Debug\Los Custom - Tunagem.pdb
